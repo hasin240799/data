@@ -12,14 +12,14 @@ export 'strings.dart';
 const String androidPackageName = 'com.wrteam.webviewprime';
 
 // admin url
-String baseurl = 'https://prime-web.wrteam.me';
+String baseurl = 'https://bizitrade.com.ng/home/login';
 String databaseUrl = '$baseurl/api/';
 
-const appName = 'Prime Web';
+const appName = 'Buy Data Sub';
 
 // Here is for only reference you have to change it from panel
 
-String webInitialUrl = '';
+String webInitialUrl = 'https://bizitrade.com.ng/home/login';
 
 //Force Update
 String forceUpdatee = '0'; //OFF
