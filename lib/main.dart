@@ -144,7 +144,7 @@ class _MyAppState extends State<MyApp> {
                       builder: (_) => const SettingsScreen(),
                     ),
                   _ => null,
-                };
+                }; 
               },
               home: const SplashScreen(),
             ),
